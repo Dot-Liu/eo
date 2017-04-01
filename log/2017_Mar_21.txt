@@ -1,0 +1,1 @@
+2017/Mar/21 22:14:55=>[code:11004;info:error in lack of operationName;wrongFile:J:\php\eo_api_store\RTP\Module\AutomaticallyModule.class.php;wrongLine:53];
